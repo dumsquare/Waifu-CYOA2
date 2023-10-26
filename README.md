@@ -33,7 +33,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/eq1TWi0.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://imgur.com/eq1TWi0.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **ScreenToGif**
 
